@@ -103,12 +103,12 @@
     padding: 3px 10px 3px 10px;
     margin-top: .5vw;
     margin-left: .5vw;
-    font-size: 1.75vh;
+    font-size: 1vw;
 
     /*margin-bottom: auto;*/
     text-align: center;
     background-color: rgba(30, 30, 30, 0.75);
-    border-radius: 2vh;
+    border-radius: 1vw;
     inline-size: fit-content;
 }
 
